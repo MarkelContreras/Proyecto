@@ -1,0 +1,142 @@
+Servidor iniciado: 09/04/2025 09:11
+--------------------------
+Input: hhh\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: hhh\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: hhh\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: hhh\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: hhh\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: hhh\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: hhh\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: u\xf7\xff\xdb
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: \x18\x87
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: \xf0\xf09KMHHHHHHHHHBHHHHHHHHHHj\xef
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: h\x1c\n\n\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: \x8e\x8e\x8e\x8e\x8e\x8e\x00\x02\x00\x01\x00\x00\x00\x00\x8e\x8e\x8e\x8e\x8e\x8e\x8eh\x8e\x8e\x8eh\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:11
+--------------------------
+Input: hh\xdec
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: \x10\xd2\x00\x00\xfc
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: h\x00BB\xff\x7fBhBBB\x0c\x7f\xffBBBB\xc2BBBBBBBBB4BBBBBBBBBBBBBBBhhBBBBBBBB\x00\x00\x00\x7f\xff\xff\xff0BBBBBWBB\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: \xe0!!!!!\t!!!\x00\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01@\x00\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x1e\xff!\x01\x00!\x13!!!!!!!!\xff\xe9
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: P\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: hhg\xe4
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: ~\x00\x00\x00\x80\x00\n\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: hHhhhhhhhhhhhhhh\x84hhhhhhhhhhhhhhhhh\x84hhhhh\x86hhhhhhhhhhhh\x86hhhhhhhhhhhh\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: hhhhhhhhhhhhhhhhh
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: \x00d\x00\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: \x97\x97\x97\x97\x80\x87\x97\x96\xe8\x03\x97\xa9\x97\x97\x97\x97\x97\x97\x96\x7f\xf2\x97\x97\x97\x97\xff\xff\xff\xff\x97\x97\x97\x97\x97
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: ih \xee
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: hh\x00\n
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: h\xaeh%
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: hhhhhhhh
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------
+Input: :\x7f\xef\n\xff\n\x91\x7f\xff\xff\xff
+Código de salida: 0
+--------------------------
+Conexión cerrada: 09/04/2025 09:12
+--------------------------

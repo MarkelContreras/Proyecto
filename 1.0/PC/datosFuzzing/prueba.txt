@@ -1,0 +1,42 @@
+Servidor iniciado: 25/02/2025 12:43
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 25/02/2025 12:43
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 25/02/2025 12:43
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 25/02/2025 12:43
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 25/02/2025 12:43
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 25/02/2025 12:43
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 25/02/2025 12:43
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 25/02/2025 12:43
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 25/02/2025 12:43
+--------------------------

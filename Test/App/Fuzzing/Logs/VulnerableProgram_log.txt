@@ -1,0 +1,1519 @@
+Servidor iniciado: 30/04/2025 07:11
+--------------------------
+Input: IIIN
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xa1
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xf7\xde\x10\x1e
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00\x80IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\x7f\x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\x02\x00@>@
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x10\x00G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I_H
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMIMGG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: T
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x98
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IGG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM9
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00I\x00G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x9bMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I:::::::::::::::H::nnnnnnnnnnnnnnnnnnnnnnnnnn::C
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x9dZ\xa9
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: F
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: Icc\t\t
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00\x011
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIIIIIIIIIIIIIIIIIIKd
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00\xff\xffG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: ~\x00G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: AN,R
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIU
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00 %%%%%%%%&\x0b%%\x18%%%%&%%%%%G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: MMHHH
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x0f\x0fMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: SEH
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xc9E
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: SMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: ``MUp=MU`=U
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: VV\x80\x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x10\x01P
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xba]G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIIMN\xffIMG\xff\x7f
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IB\x07
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: GIMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM\xb8
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: ImG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\xffG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\x00\x10
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMc
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM\xb5
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMg
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMIMGG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IjG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMF
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: ]MM
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I^G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIJ
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMGMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I.G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: JMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\xff\xff
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: lpG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: MIMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM\xa5
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: UMIG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: II4
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM\xc7
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: =?G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\x00\x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IJJG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\xff\x7f
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xaf
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: d\x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMY
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMFFFFFFFFF\x7f\x00FFFFFFFFFG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: MGG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xd8MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\x02I\x02\x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: z
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x07\x07\x07\x07\x07\x02
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: dM]
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xc5MH
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: (\x80\x00UIIgYIIIII\xfeIIIIIIIIIIIIIIIiIIIIIIIIMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: XL\xa0\x92\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0ee\x00\xff\x9e\xa0\xa0\xa0\xa0\xbd\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa3\xa0\xa0G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\xff\xff
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\xce1\x151\x001\x0011c
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: 6ML
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x9a\x9a\x00 rs\xb6\x9a
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: W
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IID
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xb8XZ
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x80@@@@@@\x80\xff$@@@<@@@@@?@@@@@@@@@@@@@\x80\xff
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x13\x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMMMMMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: 4,
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: Z\xdf\x8d
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x1f\x03\x03\x03\x03\x03\x03\x03\x03        \x03p
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00\x00\x01\x00G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: eGG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xa5\xa5\xa5
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00@\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x7f43
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: _\x87\x87\x87\x87\x87\x87\x87\x87\x87\x87\x87\x87\x9d
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xff\x80BB
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IS
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xa1\x90
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I<_
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xb6H(\x8bF\x00\x00\x0c\x8bF
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\x98\x98\x98\x98\x98\x98\x98\x98\x98\x98\x98\x98\x98\x98\xcdG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: (MW
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00\x01\x7f
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xffG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: @\x80G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xc5S\xb0S\xb6\xc4d
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \\O
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x10\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10\x10
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IeG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: K
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00\x7fH
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input:  \x00\x00h
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: F
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: G@:
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIIII\x11dIIFIIIIIIIjG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\xd3G\xd3G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: G\xf8\x04G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84\x84u\x84\x84\x84\x84\x84IIIIIBMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: Q
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IdF
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x1c\r\xff\x0cGB
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I d
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\xcdI
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: G\xffF\xff\x10
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\x10MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xff\x80
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\e\\\\\\\\\\\\\xe8\x03\x02\x02\x02\x02\x02\x02\x02\x02\x02I\xff\x7f
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: J\xebG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xb6TGITG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IGUGUG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I^^^^^^^]\x00G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIM
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIIIIIIIIIIIIIIM\x04\x00IIIIIIeIIIIIIIIIIIIIMGIIIIIIIeeeeeeeeeeeeeeeeeeeeeeeeeeeeIIII
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\x80\xff
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: %%%%%%(%%%%\x12%%%%%%IMI G2
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IDO
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: __>
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: ?\x99?
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00\x00\x00\xff\x00\x00\xff\xff\xff
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: G;G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: ^
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I.IIM
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM\x8f
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMA
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IqC
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: `MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xb6MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \xb6I-
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: MMI
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x10MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: GMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: F
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: 777777777777<7777777777MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: S
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: A\x00\x10
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMm
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIIIIIIDIII\xc9IIIIIIIIIIIIIIIIIIIIIlG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IIIIIIIIIIMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: ;MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG\n
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG\n
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG\n
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG\n
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG\n
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG\n
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG\n
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IdG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x80\x80\x10
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I*G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: (\\D
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input:  \x00 
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IrrrTrrrrrre\x02rM\x9b
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IMH
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I\x80J
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x89\x89\x89\x89\x89\x89\x89\x89\x89\x89\x89\x89\r\x00\x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: jGG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: \x00\x00G8G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: I]LG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input:  \x00o
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: iMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:11
+--------------------------
+Input: IM 
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: MG \x00I
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input:  LG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: GINV
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: KMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: pMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IM.
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: PIIIIIIIII\x80IIIIIIMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: HMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: I^G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: ING
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IM5
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMMMMMMMMMMUMMMMMMMMMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: GMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IIIIIIIIIIIIIIIIMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: @@
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: \xd0MG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: I
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: GMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMIMIMIMGG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: JMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IM5
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: I\x00\x7f
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IuG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: I\xad/
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: I\xb2\xb2\xb2\xb2\xb2\xb2\xb2\xb2\xb2\xbd\xb2\xb2\xb2\xb2\xb2\xb2\xb2\xb2 \x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: \xb7<G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IGM\x01
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMI^GG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IM\x17
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: \x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1f\x1fKM\xb8
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IM
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: J\x7f\xff
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: C\x84CCCCCMGG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: \x00\x00\x80\x7f
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: 3gF
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: eeLGLG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IiG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMF
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: ILG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMIM
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: YMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: \x8b\x8b\x00IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMH
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IUG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: k\xe9I\xe9
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: ILe
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMxxxxxxxxxxxxxxyxxxxxxxxxxxxxxxxxG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: JC\x7f
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: \x00\x80M
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: \xb6MI
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMH
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IM\x1f
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: MGH
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IWNMR
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: M\x00\x80MMMMM\x00dG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: I]G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IIM
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMMMMMMMM\x9a\x9a\x9a\x9a\x9a\x9a\x9a\x9a\x9aG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: ?\xfa\x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: M\x95\xff
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: Ib@
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMMGG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: HIjF
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IML
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: \x7fI
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input:  M`
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IM?
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: PMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: G\x80\x80\x80\x80\x80\x80G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: MMMMMMMMMMMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: aMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IIU
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: N\xcf\xb8
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: Ia^
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: I\x92G
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IIO
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: II\tHI\x8f]IIIII]III
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: \x00
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: XMMMMMMMMMMMMMMMMMMNMMMMXMMMMMMMMMMg
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IOG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: II
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMG
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: GHH
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IMi
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: I3
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------
+Input: IM+
+Código de salida: 255
+--------------------------
+Conexión cerrada: 30/04/2025 07:12
+--------------------------

@@ -1,0 +1,6 @@
+# environment variables:
+AFL_CUSTOM_INFO_PROGRAM=sh
+AFL_CUSTOM_INFO_PROGRAM_ARGV=-c 'cat @@ | socat - TCP:172.16.124.103:1234'
+AFL_CUSTOM_INFO_OUT=output
+# command line:
+'afl-fuzz' '-n' '-i' 'inputs' '-o' 'output' '-t' '1000' '-m' 'none' '--' 'sh' '-c' 'cat @@ | socat - TCP:172.16.124.103:1234'

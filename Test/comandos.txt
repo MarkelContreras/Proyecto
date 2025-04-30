@@ -1,0 +1,32 @@
+En la carpeta Test:
+echo core | sudo tee /proc/sys/kernel/core_pattern
+
+Compilar codigo:
+./afl-clang-fast -o <output_binary> <source_code.c>
+
+Ejecutar fuzz:
+./afl-fuzz -i inputs -o outputs -m 100 -- ./programa @@
+
+Ejecutar remoto:
+afl-fuzz -n -i inputs -o output -t 1000 -m none -- sh -c 'cat @@ | socat - TCP:172.16.124.103:1234'
+
+
+Base de datos comandos:
+
+Acceder al servidor:
+sudo mysql -u root -p
+
+Elegir la base de datos:
+USE fuzzing_data;
+
+Listar tablas:
+SHOW TABLES;
+
+Ver Caracteristias de la tabla resultados_fuzzing:
+DESCRIBE fuzzing;
+
+Mirar el contenido de las tablas:
+SELECT * FROM dispositivos;
+
+Matar procesos:
+killall -9 afl-fuzz

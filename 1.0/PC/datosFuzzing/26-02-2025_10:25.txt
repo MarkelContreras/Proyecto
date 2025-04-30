@@ -1,0 +1,1052 @@
+Servidor iniciado: 26/02/2025 10:31
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: holo
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x00\x02\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xe8\xff\x00\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h|la
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: m8la
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hoka
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho~\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: @\x00\x00@
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\x00\xffa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hodS
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\xff\x7fa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x00\x04\xff
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hoca
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: holt
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x92ola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x00\x00\x80
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x01\xfala
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x83olq
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hn\x10\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: Eola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hkla
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hol###a
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: holh
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: aool
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hoala
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hhofola
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hal`
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hn\x00a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho,a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hoxa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: {ola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x80\x00\x00\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho\x00\x00\x01\x00a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hlaa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x1f\xf1\x00\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho\x93\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: f\x86la
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: la
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hloV
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xad\xadla
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: laho
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hloa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hwlw
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x7f\xffl\xffa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xff\x13\x00\x80
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x00\x00\xff
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xff\xff\xff\x7f
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x7fola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho|a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00mla
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h@la
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hccccccccccccla
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hota
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x01la
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: c\x01la
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: la
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h{lu
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x7fla
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: holz
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: aaa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: osaa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: 3loa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x1f
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hL\xff
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hooooooooooooooooooooooooolLlL
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: v@\x00a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hohol~
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xa7oha
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho@\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: jpla
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: HhoqolG
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hhhhh\xb4
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hoho
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hoka
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: oa,h
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: WzlU
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: l\xe8\x00\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hhhhopb
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hela
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xff\x00la
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hh
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: Fola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: wwlY
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xd7olt
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: lala
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: nlla
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hoa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\xec\xecrla
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: To\\\\a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: Zoliolao
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: iooowooooooooooooooooooooooooooooooooooooooooooooooooooooooooola
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho\xb3a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x00\x00@\x00\x00\x00\x00\x00 \x00\x01\x15\xff\x00\x00\xff\xff
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xfa\xf8\xf0\xfa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\x803a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x00\x01\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x7f\x00\x10\x80
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hhqha
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hyhh\x00\x00\x00@hhhola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: eBBBBBBBBBBBBBBBBmlTmb
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hhhQ
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: sola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hlr
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x97\x03\x8e
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xe8\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3\x00\x00
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: holol\x80
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: Xh
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hhlUlUoa
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: q\x7f
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: holaola
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x01aj
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x18\x1c\t\x80
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hool
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xf1\xff\x1a\x0f\x0f\x00\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xea\x00a\xea\x04a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hTla
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x87ola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\xf3\xff\xfa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xcaooN\xd7Nl
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: F\xbcaM
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x01\x00\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x04d\xdca
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x80\x00\x00\x80
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: S`S`
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: {{{\x7f\x7f\x7f\x7fl
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hn\x1e\xfa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hooooo]ooo\x1b\\o\x1booooooo\x90oooooooooooo
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: 0000000ho\x86?
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x97\x00\x80a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hlllllllllll
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xc1 \xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xc1\xb1\xff\x80\xff\xff\xc1\x01\x00)
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x00\x00 
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xf9\x10\x10\x01
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ll
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x80i\xe5h
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\x80\x00haplf
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: T\x01\x80\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x94\x94\x94\x94\x94\x83
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input:                  \x00\x00\x00
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: holhsv
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xb6%\x02^\'\'\'\'\'\'\'\'\'\'\'l
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: Znnn
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: Hol\x00\x02\x00\x00\xa1l\xa4llK
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\x8bl
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbf\xbfuab\x10
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: [=\x02\x8a\x8a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: llPlPiy
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x0b\x00\x01\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: `\x1fpl
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x16=\xdfk
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x80\xff\xff
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: iamo
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xcb\xcb\xcbxxxxxxxwxxxxx\x00\x00\xff\x7f\xcbh
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: K
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x10\xff\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x10\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: inQa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xa9d;H
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x01"
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xbb\xbb\xbbk
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: k\xccq^p
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\x90s\x10
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x1e\x7f
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x98\x00\xf9\xed\xfa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: i\x81}i\x00\xfe
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x89oma
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho{a
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xffuuuuuuuuu\x92\x00@\x00\x01uuuuu\x01uuuuuuuuuuv\x03\x80uuuv\x03\x80\x00uuuuuu\x92ut\x00\x01uuuuuuuuuuv\x03\x80uuuv\x03\x80\x00
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hg\xeb@
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xff\xff\x02\x80
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: llxllllllllllllllllllllllllllllllllllll
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: hlq\x85qa444444\xde44444444))))))))))))))))))))))))))))4j
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x01\xd8\xf1\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\x00\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xd8\xba\xd8\xd8\xd8\x00\x80\x10\xd8\xd8\xd8\xe3\xd9
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xc4ola
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x82ollllllllllla
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: aGeeeeeeeeeeeeeNeeeeeW
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \\o\x8c\x9e
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: d`dhd#\t###############ddT`a`\x88
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x00\x00\x00\x00\x00\x01\xff\xff\xf6\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xff\xf6\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xff\xf6\x00\x00\x00\x00\x00\x001
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x03\x00\x00  \x80\x00Oa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ho\x00(
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x10\x01`
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xff\xd0Lk
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xbe
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: so\x93\x81
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ro\x80ro\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x80\x7f\x80aa
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xd9\xca\x82x
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00-a\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1b\x1ba
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x8c\x8bnn
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ^halala
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x93[a\x93[a
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x00\x10\x00
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: ol!r
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\x00\x00\x00dhh\xb1hhh\x00\x00\xff\xffhplS
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x89`oL
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xb3\xb3\xb3\xb3\xb3\xb3\xb3\xb3\xb3\xb3\xaa\xb3\xb3\xb3\xb3\xb3\xb3\xb3\xb3hSla
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x80qz\xfc
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: h\x7flaa
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \xfc\xfc\xfc\xfc\xfc\xfc\xfc\xfc\xdc\xd5\xdc\xdc\xdc\xdc\xdc\xdd\xdc\xdc\xdd\x06\xfc\x06\xfd\xfc\xfc\xfc\xfc\xfc\xfc\xfc\xfc\xfc\xfc\xdc\xdc\xdc\xdc\xdc\xdc\xdc\xdd\xdc\xdc\xdd\x06\xfc\x06\xfd\xfc\xdd\x06\xfc\x06\xfd\xfc\xfc\xfc\xfc\xfc\xfc\xfc\xfcla
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: \x83o_l\xe5\xe5\xe5\xe5\xe5\xe5\xe5\xe5_
+Código de salida: 11
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
+Input: R \x00\xffz
+Código de salida: 0
+--------------------------
+Conexión cerrada: 26/02/2025 10:31
+--------------------------
